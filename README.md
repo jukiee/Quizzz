@@ -1,5 +1,5 @@
 ## Quizzzzzzz
-Ấn để tải APK ngay: [Download APK](https://docs.flutter.dev/get-started/codelab)
+Ấn để tải APK ngay: [Download APK]([https://docs.flutter.dev/get-started/codelab](https://github.com/jukiee/Quizzz/raw/main/release/app-release.apk)
 
 ## Getting Started
 
