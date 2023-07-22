@@ -158,7 +158,7 @@ class _GameScreenState extends State<GameScreen> {
                           ),
                         ),
                         Transform.translate(
-                          offset: const Offset(0, -60),
+                          offset: const Offset(0, -50),
                           child: Text(
                             "Câu ${indexQuiz + 1}/${_quizData.length}",
                             style: const TextStyle(
@@ -169,7 +169,7 @@ class _GameScreenState extends State<GameScreen> {
                           ),
                         ),
                         Transform.translate(
-                          offset: const Offset(0, -60),
+                          offset: const Offset(0, -40),
                           child: SingleChildScrollView(
                             child: Text(
                               question,
