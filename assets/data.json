@@ -1,0 +1,182 @@
+[
+    {
+      "question": "Mạng Internet là?",
+      "answers": [
+        {"answer": "Mạng Client-Server", "isCorrect": false},
+        {"answer": "Mạng toàn cầu", "isCorrect": true},
+        {"answer": "Mạng cục bộ LAN", "isCorrect": false},
+        {"answer": "Mạng diện rộng WAN", "isCorrect": false}
+      ]
+    },
+    {
+      "question": "Mỗi máy tính tham gia vào mạng đều có 1 địa chỉ duy nhất được gọi là địa chỉ?",
+      "answers": [
+        {"answer": "HTTP", "isCorrect": false},
+        {"answer": "HTML", "isCorrect": false},
+        {"answer": "IP", "isCorrect": true},
+        {"answer": "TCP/IP", "isCorrect": false}
+      ]
+    },
+    {
+      "question": "Mạng internet ra đời năm nào?",
+      "answers": [
+        {"answer": "1956", "isCorrect": false},
+        {"answer": "1969", "isCorrect": true},
+        {"answer": "1970", "isCorrect": false},
+        {"answer": "1980", "isCorrect": false}
+      ]
+    },
+    {
+      "question": "SMS là viết tắt của Short Message Services, có nghĩa là?",
+      "answers": [
+        {"answer": "Dịch vụ tin nhắn ngắn", "isCorrect": true},
+        {"answer": "Một giao thức viễn thông cho phép gửi các thông điệp dạng text ngắn (không quá 160 ký tự)", "isCorrect": true},
+        {"answer": "Giao thức này có trên hầu hết các thiết bị di động di động", "isCorrect": true},
+        {"answer": "Cả A,B,C đều đúng", "isCorrect": true}
+      ]
+    },
+    {
+      "question": "IM : Instant Messaging là dịch vụ?",
+      "answers": [
+        {"answer": "Trao đổi thông tin bằng giọng nói (voice)", "isCorrect": false},
+        {"answer": "Trao đổi thông tin bằng hình ảnh (video)", "isCorrect": false},
+        {"answer": "Là dịch vụ cho phép hai người trở lên nói chuyện trực tuyến (chat, text) với nhau qua một mạng máy tính. Dịch vụ này đã thúc đẩy sự phát triển của Internet trong đầu thập niên 2000.", "isCorrect": true},
+        {"answer": "Dịch vụ tin nhắn offline", "isCorrect": false}
+      ]
+    },
+    {
+      "question": "Trong mạng máy tính, thuật ngữ Share có ý nghĩa gì?",
+      "answers": [
+        {"answer": "Chia sẻ tài nguyên", "isCorrect": true},
+        {"answer": "Nhãn hiệu của một thiết bị kết nối mạng", "isCorrect": false},
+        {"answer": "Lệnh in trong mạng cục bộ", "isCorrect": false},
+        {"answer": "Tên phần mềm hỗ trợ sử dụng mạng cục bộ", "isCorrect": false}
+      ]
+    },
+    {
+      "question": "WWW là viết tắt của cụm từ nào sau đây?",
+      "answers": [
+        {"answer": "World Wide Web", "isCorrect": true},
+        {"answer": "World Win Web", "isCorrect": false},
+        {"answer": "World Wired Web", "isCorrect": false},
+        {"answer": "Windows Wide Web", "isCorrect": false}
+      ]
+    },
+    {
+      "question": "Cho biết địa chỉ http://www.vhu.edu.vn là loại tổ chức gì?",
+      "answers": [
+        {"answer": "Tổ chức thương mại", "isCorrect": false},
+        {"answer": "Tổ chức y tế", "isCorrect": false},
+        {"answer": "Tổ chức chính phủ", "isCorrect": false},
+        {"answer": "Tổ chức giáo dục", "isCorrect": true}
+      ]
+    },
+    {
+      "question": "Trang chủ (Homepage) là?",
+      "answers": [
+        {"answer": "Trang web của cá nhân", "isCorrect": false},
+        {"answer": "Trang web hướng dẫn sử dụng website", "isCorrect": false},
+        {"answer": "Trang web đầu tiên được mở ra khi truy cập một website", "isCorrect": true},
+        {"answer": "Địa chỉ chính thức của một website", "isCorrect": false}
+      ]
+    },
+    {
+      "question": "Một địa chỉ email đầy đủ tồn tại trên mạng internet là một địa chỉ?",
+      "answers": [
+        {"answer": "Duy nhất không trùng với bất kỳ người nào trong mạng", "isCorrect": true},
+        {"answer": "Có thể trùng trên cùng một máy chủ", "isCorrect": false},
+        {"answer": "Có thể trùng nhưng khác máy chủ", "isCorrect": false},
+        {"answer": "Mỗi người chỉ có duy nhất 1 địa chỉ email như địa chỉ đăng ký nhà", "isCorrect": false}
+      ]
+    },
+    {
+      "question": "Trong một địa chỉ E-mail, kí tự nào là kí tự phải có?",
+      "answers": [
+        {"answer": "&", "isCorrect": false},
+        {"answer": "#", "isCorrect": false},
+        {"answer": "$", "isCorrect": false},
+        {"answer": "@", "isCorrect": true}
+      ]
+    },
+    {
+      "question": "Dịch vụ thư điện tử được dùng để làm gì?",
+      "answers": [
+        {"answer": "Trao đổi thông tin trực tuyến", "isCorrect": false},
+        {"answer": "Hộp thoại trực tuyến", "isCorrect": false},
+        {"answer": "Trao đổi thư thông qua môi trường Internet", "isCorrect": true},
+        {"answer": "Tìm kiếm thông tin", "isCorrect": false}
+      ]
+    },
+    {
+      "question": "Đâu là địa chỉ trang web tìm kiếm thông dụng nhất hiện nay?",
+      "answers": [
+        {"answer": "www.google.com", "isCorrect": true},
+        {"answer": "www.24h.com.vn", "isCorrect": false},
+        {"answer": "www.vnexpress.net", "isCorrect": false},
+        {"answer": "www.yahoo.com", "isCorrect": false}
+      ]
+    },
+    {
+      "question": "Khi bạn tải dữ liệu từ máy tính của người khác sang máy tính của bạn đó chính là quá trình?",
+      "answers": [
+        {"answer": "Banner", "isCorrect": false},
+        {"answer": "Hyperlink", "isCorrect": false},
+        {"answer": "Bandwidth", "isCorrect": false},
+        {"answer": "Download", "isCorrect": true}
+      ]
+    },
+    {
+      "question": "Khái niệm chỉ một nơi trên website mà bạn có thể truy cập vào đó và nói chuyện cùng với những người bạn được gọi là?",
+      "answers": [
+        {"answer": "Chat room", "isCorrect": true},
+        {"answer": "Hyperlink", "isCorrect": false},
+        {"answer": "Bandwidth", "isCorrect": false},
+        {"answer": "Browser", "isCorrect": false}
+      ]
+    },
+    {
+      "question": "Khái niệm chỉ những liên kết từ một văn bản, hình ảnh, đồ thị này đến một văn bản, hình ảnh, đồ thị khác được gọi là?",
+      "answers": [
+        {"answer": "Chat room", "isCorrect": false},
+        {"answer": "Hyperlink", "isCorrect": true},
+        {"answer": "Bandwidth", "isCorrect": false},
+        {"answer": "Browser", "isCorrect": false}
+      ]
+    },
+    {
+      "question": "Khái niệm chỉ phần mềm dùng để hiển thị, duyệt Website ở một địa chỉ nào đó được gọi là?",
+      "answers": [
+        {"answer": "Chat room", "isCorrect": false},
+        {"answer": "Hyperlink", "isCorrect": false},
+        {"answer": "Bandwidth", "isCorrect": false},
+        {"answer": "Browser", "isCorrect": true}
+      ]
+    },
+    {
+      "question": "Khái niệm chỉ một cuốn sách điện tử, một cuốn sách ảo hay một cuốn sách kỹ thuật số được gọi là?",
+      "answers": [
+        {"answer": "eBook", "isCorrect": true},
+        {"answer": "Hyperlink", "isCorrect": false},
+        {"answer": "Bandwidth", "isCorrect": false},
+        {"answer": "Browser", "isCorrect": false}
+      ]
+    },
+    {
+      "question": "Khái niệm chỉ quá trình chuyển dữ liệu sang mã số không thể đọc được để bảo mật thông tin được gọi là?",
+      "answers": [
+        {"answer": "Chat room", "isCorrect": false},
+        {"answer": "Hyperlink", "isCorrect": false},
+        {"answer": "Encryption", "isCorrect": true},
+        {"answer": "Browser", "isCorrect": false}
+      ]
+    },
+    {
+      "question": "Khái niệm chỉ quá trình chuyển tải dữ liệu từ máy tính của bạn sang một máy tính khác được gọi là?",
+      "answers": [
+        {"answer": "Download", "isCorrect": false},
+        {"answer": "Hyperlink", "isCorrect": false},
+        {"answer": "Bandwidth", "isCorrect": false},
+        {"answer": "Upload", "isCorrect": true}
+      ]
+    }
+]
