@@ -1,6 +1,5 @@
-# quizzz
-
-A new Flutter project.
+## Quizzzzzzz
+Ấn để tải APK ngay: [Download APK](https://docs.flutter.dev/get-started/codelab)
 
 ## Getting Started
 
